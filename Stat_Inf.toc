@@ -1,0 +1,31 @@
+\babel@toc {american}{}\relax 
+\contentsline {chapter}{\numberline {1}Basic Concepts}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Samples, Statistics, and Estimators}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Efficient Estimators and Sufficient Statistics}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Efficient Estimators}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Sufficient Statistics}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Exponential Families}{7}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Estimators Based on Sufficient Statistics}{8}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Estimation Methods}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Maximum Likelihood}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Properties of Maximum Likelihood Estimators}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Multiparametric Case}{11}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Maximum Likelihood in the Exponential Family}{12}{section.3.4}%
+\contentsline {section}{\numberline {3.5}The Method of Moments}{12}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Consistent Estimators}{12}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Decision Theory: the Minimax and Bayes Principles}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Basic Elements}{13}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The Minimax Principle}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}The Bayes Principle}{15}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Interval Estimates}{17}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Samples of Normal Populations}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The Method of Pivotal Quantity}{17}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Intervals for Normal Populations}{18}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Approximate Confidence Intervals}{19}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Bayesian Confidence Intervals}{19}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Hypothesis Testing}{21}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Statistical Formulation}{21}{section.6.1}%
+\contentsline {section}{\numberline {6.2}More powerful tests}{22}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Uniformly most powerful tests}{23}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Generalized Likelihood-ratio Tests}{24}{section.6.4}%
+\contentsline {chapter}{References}{26}{chapter*.2}%
